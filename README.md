@@ -233,3 +233,15 @@ processing:  0　 <-処理中バッチ数
 done:        3　 <-処理完了バッチ数
 result:      8　 <-処理結果数
 ```
+
+## License
+
+This project is licensed under the Apache License 2.0.
+
+Copyright 2026 latent-boundary
+
+You may obtain a copy of the License at:
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software distributed under the License is provided on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND.
